@@ -1,7 +1,7 @@
 package edu.uqu.cs;
 
 /**
- * This a Maven based Java project.
+ * This a Maven based Java projmvnect.
  * Fix this by:
  * 1. Rename the class name from FirstExercise to App
  * 2. Add the public keyword before the class keyword
@@ -11,10 +11,12 @@ package edu.uqu.cs;
  *      b.	Change <Student ID> to your student ID
  */
  
-class FirstExercise
-{
-    private static void mainMethod( String[] args )
-    {
-        System.out.println( "Hello World!" );
-    }
+public class App
+{   
+
+     public static void main( String[] args )
+     {
+        System.out.println( "Hello: Salem, 443002925" );
+    
+}
 }
